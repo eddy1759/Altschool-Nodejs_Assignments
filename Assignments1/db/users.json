@@ -1,0 +1,34 @@
+[
+  {
+    "userid": 1,
+    "name": "Administrator",
+    "email": "Admin@mail.com",
+    "password": "Admin22",
+    "role": "Admin"
+  },
+  {
+    "userid": 2,
+    "name": "User1",
+    "email": "User1@mail.com",
+    "password": "User123",
+    "role": "visitor"
+  },
+  {
+    "userid": 3,
+    "name": "User2",
+    "email": "User2@mail.com",
+    "password": "password22",
+    "phoneNumber": "+233658975678",
+    "address": "80 kingsway heavenly highway",
+    "role": "visitor"
+  },
+  {
+    "userId": 4,
+    "name": "brain man",
+    "email": "brainaic@mail.com",
+    "password": "brain223",
+    "phoneNumber": "0912346812",
+    "address": "24, straight str.",
+    "role": "visitor"
+  }
+]

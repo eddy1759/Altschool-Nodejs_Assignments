@@ -1,0 +1,46 @@
+[
+  {
+    "email": "User21@mail.com",
+    "id": 1,
+    "bookToLoan": {
+      "bookId": 6,
+      "title": "Algorithm Design",
+      "author": "Jon Kleinberg and Éva Tardos",
+      "year": 2022,
+      "isbn": "9780132131087",
+      "publisher": "Addison-Wesley",
+      "pages": 984,
+      "rating": 4
+    }
+  },
+  {
+    "email": "User2@mail.com",
+    "id": 2,
+    "bookToLoan": {
+      "bookId": 4,
+      "title": "Eloquent JavaScript",
+      "author": " Marijn Haverbeke",
+      "year": 2018,
+      "isbn": "9781593279509",
+      "publisher": "No Starch Press",
+      "pages": 472,
+      "rating": 5
+    },
+    "timeNow": "19-9-2022"
+  },
+  {
+    "email": "User1@mail.com",
+    "id": 3,
+    "bookToLoan": {
+      "bookId": 6,
+      "title": "Chike and the river",
+      "author": "Chinue Achebe",
+      "year": 2022,
+      "isbn": "9812345678",
+      "publisher": "eddy company",
+      "pages": 70,
+      "rating": 6
+    },
+    "timeNow": "19-9-2022"
+  }
+]

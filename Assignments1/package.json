@@ -1,0 +1,27 @@
+{
+  "name": "assignments1",
+  "version": "1.0.0",
+  "description": "- Set up a new nodejs project with the following:\r     - Create a new server (index.js)\r     - Establish the following routes (no libraries allowed) inside index.js using the specified method:\r         - **Users:**\r             - CreateUser\r             - AuthenticateUser\r             - getAllUsers\r         - **Books:**\r             - Create Book\r             - Delete Book\r             - Loan Out Book\r             - Return Book\r             - Update Book",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --runInBand --forceExit",
+    "start:dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1"
+  },
+  "devDependencies": {
+    "jest": "^29.0.2",
+    "nodemon": "^2.0.19",
+    "supertest": "^6.2.4"
+  }
+}

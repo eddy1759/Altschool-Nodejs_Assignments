@@ -1,0 +1,52 @@
+[
+  {
+    "bookId": 1,
+    "title": "Things Fall Apart",
+    "author": "Chinua Achebe",
+    "year": 1958,
+    "isbn": " 9780435272463",
+    "publisher": " William Heinemann",
+    "pages": 212,
+    "rating": 4
+  },
+  {
+    "bookId": 2,
+    "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break",
+    "author": "James Clear",
+    "year": 2018,
+    "isbn": "978073521129",
+    "publisher": "PenguinRandomHouse",
+    "pages": 319,
+    "rating": 4
+  },
+  {
+    "bookId": 3,
+    "title": "Eat That Frog",
+    "author": "Brian Tracy",
+    "year": 2017,
+    "isbn": "9781520071992",
+    "publisher": "Berrett-Koehler",
+    "pages": 144,
+    "rating": 5
+  },
+  {
+    "bookId": 5,
+    "title": "The 48 Laws of Power",
+    "author": "Robert Greene",
+    "year": 2020,
+    "isbn": "9780140280197",
+    "publisher": "PenguinRandomHouse",
+    "pages": 478,
+    "rating": 5
+  },
+  {
+    "bookId": 7,
+    "title": "The Believer's Authority",
+    "author": "Kenneth E. Hagin",
+    "year": 1985,
+    "isbn": "9781577949367",
+    "publisher": "Harrison House",
+    "pages": 242,
+    "rating": 5
+  }
+]
