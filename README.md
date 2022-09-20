@@ -80,7 +80,7 @@ npm run start:dev
 
 ## My process
 
-The design process I used to create this API is very simple. First of all I had to write down the basic files and folders I will need and list the files that will be contained in each folder. While writing the code, there were three main stages in my design process which were: 
+The design process I used to create this API is very simple. First of all I had to write down the basic files and folders I will need and list the files that will be contained in each folder. While writing the code, there were five main stages in my design process which were: 
 
 - Write test code to test routes
 - Setup server with a request handler
@@ -90,22 +90,22 @@ The design process I used to create this API is very simple. First of all I had 
 
 ### Built with
 
-- Nodejs
+- NExpressJS
 
 ### What I learned
 
-- How to setup a server with NodeJS and Express
-- Basics of authentication
+- How to setup a server with `NodeJS` and `Express`
+- Basics of `authentication`
 - Code documentation
-- How to test code using TDD framework
-- How to build a CRUD app
+- How to test code using `TDD` framework
+- How to build a `CRUD` app
 - Basics of error handling
 - How to categorise code files
 
 
 ### Useful resources
 
-For the development of the frontend, I found this [resource](https://google.com) very useful.
+Google [resource](https://google.com) was a very useful resource.
 
 ## Author
 
