@@ -42,13 +42,14 @@ This is an API created with Express framework. It can be classified into two mai
 Clone repository 
 
 ```
-git clone https://<insert_your_token>@github.com/eddy1759/altschool-nodejs-project-one
+git clone https://<insert_your_token>@github.com/eddy1759/
+Altschool-Nodejs_Assignments
 ```
 
 Change directory
 
 ```
-cd ALTschool-Nodejs_Assignments/Assignment1
+cd Altschool-Nodejs_Assignments/Assignment1
 ```
 
 Install dependencies
