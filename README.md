@@ -90,7 +90,7 @@ The design process I used to create this API is very simple. First of all I had 
 
 ### Built with
 
-- NExpressJS
+- ExpressJS
 
 ### What I learned
 
