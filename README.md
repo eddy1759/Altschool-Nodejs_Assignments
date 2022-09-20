@@ -33,9 +33,6 @@ This is an API created with Express framework. It can be classified into two mai
   - loanOutBooks ```POST```
   - returnBooks ```POST```
   - updateBook ```PUT```
- 
-
-**NOTE:** While building the frontend demo, I discovered that only `GET` and `POST` methods worked, so the functions that work with `PUT` and `DELETE` methods were not functional
 
 ## Usage
 
